@@ -1,27 +1,77 @@
 
-<!--
-  README de perfil — Vinícius Ferreira
-  Identidade visual: Preto + Azul Elétrico
--->
+<!-- ============================================ -->
+<!-- README 2.0 | VINÍCIUS FERREIRA -->
+<!-- HEADER -->
+<!-- ============================================ -->
 
 <div align="center">
 
-  <!-- BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080F,50:071A35,100:0066FF&height=220&section=header&text=VIN%C3%8DCIUS%20FERREIRA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=PROGRAMMING%20%7C%20CREATIVITY%20%7C%20EVOLUTION&descSize=13&descAlignY=58&animation=twinkling" />
+  <!-- BANNER PRINCIPAL -->
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:05080F,45:071A35,100:0066FF&height=230&section=header&text=VIN%C3%8DCIUS%20FERREIRA&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=PROGRAMACAO%20%7C%20CRIATIVIDADE%20%7C%20EVOLUCAO&descSize=14&descAlignY=57&animation=twinkling"
+    alt="Banner de Vinícius Ferreira"
+  />
 
-  <!-- TYPING ANIMATION -->
+  <!-- APRESENTAÇÃO ANIMADA -->
   <a href="https://github.com/viniciusfsluz-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=168BFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Vin%C3%ADcius+Ferreira!;Programador+intermedi%C3%A1rio;Transformando+ideias+em+projetos.;Sempre+evoluindo+atrav%C3%A9s+do+c%C3%B3digo." alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1200&color=168BFF&center=true&vCenter=true&width=650&height=50&lines=Ol%C3%A1%2C+eu+sou+Vin%C3%ADcius+Ferreira.;Programador+intermedi%C3%A1rio.;Transformando+ideias+em+projetos.;Sempre+aprendendo%2C+sempre+evoluindo."
+      alt="Apresentação animada"
+    />
   </a>
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Status-Em%20constante%20evolu%C3%A7%C3%A3o-0066FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Development-111827?style=for-the-badge&logo=visualstudiocode&logoColor=168BFF" />
+  <!-- IDENTIFICAÇÃO -->
+  <p>
+    <img
+      src="https://img.shields.io/badge/AREA-PROGRAMACAO-0066FF?style=flat-square&labelColor=05080F"
+      alt="Área: Programação"
+    />
+    <img
+      src="https://img.shields.io/badge/NIVEL-INTERMEDIARIO-168BFF?style=flat-square&labelColor=05080F"
+      alt="Nível intermediário"
+    />
+    <img
+      src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO-0066FF?style=flat-square&labelColor=05080F"
+      alt="Foco em desenvolvimento"
+    />
+  </p>
+
+  <!-- FRASE DE IDENTIDADE -->
+  <h3>
+    Construindo ideias através do código.
+  </h3>
+
+  <p>
+    <a href="https://github.com/viniciusfsluz-tech">
+      <img
+        src="https://img.shields.io/badge/GitHub-Visite%20meu%20perfil-168BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=05080F"
+        alt="Visite meu GitHub"
+      />
+    </a>
+    <a href="https://www.instagram.com/vinicius.fluz/">
+      <img
+        src="https://img.shields.io/badge/Instagram-Me%20acompanhe-168BFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=05080F"
+        alt="Meu Instagram"
+      />
+    </a>
+  </p>
 
 </div>
 
----
+<!-- SEPARADOR -->
+<div align="center">
+  <img
+    width="70%"
+    height="2"
+    src="https://capsule-render.vercel.app/api?type=rect&color=168BFF&height=2"
+    alt=""
+  />
+</div>
+
+<br/>
 
 ## `01` — Sobre mim
 
